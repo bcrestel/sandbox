@@ -2,6 +2,8 @@ numpy
 scipy
 pandas>=1.0.0
 pandas_profiling
+scikit-learn
+statsmodels
 
 matplotlib
 seaborn
